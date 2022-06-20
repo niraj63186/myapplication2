@@ -18,8 +18,16 @@ function isOdd(number){
 isOdd(13)
 isOdd(12)
 
+
 function sum(p1,p2){
     console.log(`${p1}+${p2} = ${p1+p2}`)
 }
 
 sum(10,10)
+
+function sub(p1,p2){
+    console.log(`${p1}-${p2} = ${p1-p2}`)
+}
+
+sub(10,10)
+
