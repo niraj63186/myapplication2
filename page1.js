@@ -19,7 +19,5 @@ isOdd(13)
 isOdd(12)
 
 function sum(p1,p2){
-    console.log('sum is' + ${p1+p2})
+    console.log(`${p1}+${p2} = ${p1+p2}`)
 }
-
-sum(5,5)
