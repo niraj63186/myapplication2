@@ -17,3 +17,7 @@ function isOdd(number){
 
 isOdd(13)
 isOdd(12)
+
+function sum(p1,p2){
+    console.log('sum is ${p1+p2}')
+}
